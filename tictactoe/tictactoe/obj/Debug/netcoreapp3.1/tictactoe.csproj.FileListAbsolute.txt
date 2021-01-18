@@ -1,0 +1,13 @@
+C:\Users\bridger.PEPPERS\OneDrive\csharp_projects\tictactoe\tictactoe\bin\Debug\netcoreapp3.1\tictactoe.exe
+C:\Users\bridger.PEPPERS\OneDrive\csharp_projects\tictactoe\tictactoe\bin\Debug\netcoreapp3.1\tictactoe.deps.json
+C:\Users\bridger.PEPPERS\OneDrive\csharp_projects\tictactoe\tictactoe\bin\Debug\netcoreapp3.1\tictactoe.runtimeconfig.json
+C:\Users\bridger.PEPPERS\OneDrive\csharp_projects\tictactoe\tictactoe\bin\Debug\netcoreapp3.1\tictactoe.runtimeconfig.dev.json
+C:\Users\bridger.PEPPERS\OneDrive\csharp_projects\tictactoe\tictactoe\bin\Debug\netcoreapp3.1\tictactoe.dll
+C:\Users\bridger.PEPPERS\OneDrive\csharp_projects\tictactoe\tictactoe\bin\Debug\netcoreapp3.1\tictactoe.pdb
+C:\Users\bridger.PEPPERS\OneDrive\csharp_projects\tictactoe\tictactoe\obj\Debug\netcoreapp3.1\tictactoe.csprojAssemblyReference.cache
+C:\Users\bridger.PEPPERS\OneDrive\csharp_projects\tictactoe\tictactoe\obj\Debug\netcoreapp3.1\tictactoe.AssemblyInfoInputs.cache
+C:\Users\bridger.PEPPERS\OneDrive\csharp_projects\tictactoe\tictactoe\obj\Debug\netcoreapp3.1\tictactoe.AssemblyInfo.cs
+C:\Users\bridger.PEPPERS\OneDrive\csharp_projects\tictactoe\tictactoe\obj\Debug\netcoreapp3.1\tictactoe.csproj.CoreCompileInputs.cache
+C:\Users\bridger.PEPPERS\OneDrive\csharp_projects\tictactoe\tictactoe\obj\Debug\netcoreapp3.1\tictactoe.dll
+C:\Users\bridger.PEPPERS\OneDrive\csharp_projects\tictactoe\tictactoe\obj\Debug\netcoreapp3.1\tictactoe.pdb
+C:\Users\bridger.PEPPERS\OneDrive\csharp_projects\tictactoe\tictactoe\obj\Debug\netcoreapp3.1\tictactoe.genruntimeconfig.cache
